@@ -1,0 +1,12 @@
+2021/07/12 12:37:01 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/12 12:39:37 Get "http://www.vulnlawyers.co.uk/images/avatar.jpg": context canceled
+2021/07/12 12:39:37 Get "http://www.vulnlawyers.co.uk/images/avatars.jpg": context canceled
+2021/07/12 12:39:50 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/12 12:49:23 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/12 14:05:02 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/12 14:32:54 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/12 14:32:55 Get "http://www.vulnlawyers/images/.bash_history": context canceled
+2021/07/12 14:32:55 Get "http://www.vulnlawyers/images/.bashrc": context canceled
+2021/07/13 14:43:11 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
+2021/07/13 14:43:12 Get "http://www.vulnlawyers.co.uk/login/.git-rewrite": context canceled
+2021/07/13 14:44:21 Error while opening default config file: open /home/intx/.ffufrc: no such file or directory
